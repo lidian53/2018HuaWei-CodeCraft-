@@ -1,0 +1,11 @@
+120
+flavor1 24
+flavor2 24
+flavor3 24
+flavor4 24
+flavor5 24
+
+3
+1 flavor1 24 flavor2 24 flavor3 8
+2 flavor3 16 flavor4 20
+3 flavor4 4 flavor5 24
